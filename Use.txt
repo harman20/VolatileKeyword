@@ -1,0 +1,2 @@
+Q:      What is volatile keyword in Java?
+Ans:- Volatile keyword is used to modify the value of a variable by different threads. It is also used to make classes thread-safe. It means that multiple threads can use a method and instance of the classes at the same time without any problem.
